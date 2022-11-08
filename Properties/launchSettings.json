@@ -1,0 +1,16 @@
+﻿{
+  "profiles": {
+    "wrk_process": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "POSTGRESSDB": "",
+        "Redis": "192.168.15.33",
+        "MONGODB": "",
+        "HabbitIp": "192.168.15.33",
+        "HabbitTopicProcess": "process"
+      }
+    }
+  }
+}
